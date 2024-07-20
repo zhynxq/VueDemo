@@ -1,0 +1,18 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch 记事本
+# Changes to be committed:
+#	modified:   package.json
+#	modified:   src/App.vue
+#	deleted:    src/components/HelloWorld.vue
+#	new file:   src/components/MyHreader.vue
+#
+# Changes not staged for commit:
+#	modified:   src/App.vue
+#	modified:   src/components/MyHreader.vue
+#
+# Untracked files:
+#	src/components/MyBoby.vue
+#
